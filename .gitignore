@@ -1,0 +1,28 @@
+# dependencies
+node_modules
+
+# next.js
+.next
+
+# build files
+dist
+build
+
+# typescript
+*.tsbuildinfo
+
+# environment variables
+.env
+.env.local
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# system
+.DS_Store
+Thumbs.db
+
+# local AI/config
+.claude
