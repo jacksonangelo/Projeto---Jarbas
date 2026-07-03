@@ -14,11 +14,12 @@ export const SITE = {
 export const WHATSAPP_URL = `https://wa.me/${SITE.whatsapp}?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20consulta.`;
 
 export const NAV_LINKS = [
-  { label: "Início",    href: "/" },
-  { label: "Sobre",     href: "/sobre" },
-  { label: "Serviços",  href: "/servicos" },
-  { label: "Blog",      href: "/blog" },
-  { label: "Contacto",  href: "/contato" },
+  { label: "Início",                 href: "/" },
+  { label: "Sobre",                  href: "/sobre" },
+  { label: "Serviços",               href: "/servicos" },
+  { label: "Recursos Terapêuticos",  href: "/recursos" },
+  { label: "Blog",                   href: "/blog" },
+  { label: "Contacto",               href: "/contato" },
 ];
 
 export const SERVICES = [
